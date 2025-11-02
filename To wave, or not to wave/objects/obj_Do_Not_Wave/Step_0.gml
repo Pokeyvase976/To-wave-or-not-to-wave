@@ -9,5 +9,6 @@ is_hovered = (mx > x && mx < x + btn_width && my > y && my < y + btn_height);
 if (is_hovered && mouse_check_button_pressed(mb_left)) {
     is_pressed = true;
 
-room_goto(Room2)
+show_debug_message("You did not wave back")
+global.WaveBack=1
 }

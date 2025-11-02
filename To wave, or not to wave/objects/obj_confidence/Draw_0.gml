@@ -1,1 +1,0 @@
-draw_healthbar(x,y,x+300,y+50,global.confidence,c_black,c_black,c_green,0,true,true)

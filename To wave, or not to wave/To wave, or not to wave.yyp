@@ -23,12 +23,13 @@
   },
   "name":"To wave, or not to wave",
   "resources":[
-    {"id":{"name":"obj_confidence","path":"objects/obj_confidence/obj_confidence.yy",},},
-    {"id":{"name":"obj_person_respawner","path":"objects/obj_person_respawner/obj_person_respawner.yy",},},
+    {"id":{"name":"obj_Do_Not_Wave","path":"objects/obj_Do_Not_Wave/obj_Do_Not_Wave.yy",},},
+    {"id":{"name":"obj_Game_Controller","path":"objects/obj_Game_Controller/obj_Game_Controller.yy",},},
     {"id":{"name":"obj_person","path":"objects/obj_person/obj_person.yy",},},
     {"id":{"name":"obj_Start_Button","path":"objects/obj_Start_Button/obj_Start_Button.yy",},},
     {"id":{"name":"obj_Wave_Button","path":"objects/obj_Wave_Button/obj_Wave_Button.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},},
     {"id":{"name":"spr_person","path":"sprites/spr_person/spr_person.yy",},},
     {"id":{"name":"spr_Start_Button","path":"sprites/spr_Start_Button/spr_Start_Button.yy",},},
@@ -38,7 +39,8 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Title_Screen","path":"rooms/Title_Screen/Title_Screen.yy",},},
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

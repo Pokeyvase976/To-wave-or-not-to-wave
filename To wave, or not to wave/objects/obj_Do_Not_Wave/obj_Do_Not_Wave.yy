@@ -1,11 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_person_respawner",
+  "%Name":"obj_Do_Not_Wave",
   "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_person_respawner",
+  "name":"obj_Do_Not_Wave",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
